@@ -13,5 +13,5 @@ I'm a passionate software engineer with a focus on creating intuitive user exper
 ## Get in Touch
 
 - Explore my projects to see what I've been working on!
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/varunchawla247/)) or [Instagram](https://www.instagram.com/vcboi_/))!
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/varunchawla247/) or [Instagram](https://www.instagram.com/vcboi_/)!
 - Feel free to reach out for collaborations or just to say hello! 😊
