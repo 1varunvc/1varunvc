@@ -4,7 +4,7 @@ I'm a passionate software engineer with a focus on creating intuitive user exper
 
 ## About Me
 
-- 💻 I specialize in both frontend and backend development.
+- 💻 I do frontend and backend development for fun, while being a professional Quality Assurance Engineer.
 - 🚀 I love turning ideas into reality with clean, efficient code.
 - 🎵 I've crafted immersive music apps. like One-Music and BeatsV3.
 - ⏰ I've built tools for efficient task management like Schedule-Personalised-SMS.
